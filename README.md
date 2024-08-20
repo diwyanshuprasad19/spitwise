@@ -1,4 +1,4 @@
-# Splitwise Clone
+# Splitwise Apis clone
 This project is a command-line interface (CLI) based system created using Java and Spring Boot, aiming to replicate the functionality of Splitwise, a popular expense-splitting application.
 
 ## Overview
